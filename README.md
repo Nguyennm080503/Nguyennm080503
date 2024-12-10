@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Minh Nguyên</h1>
 <h3 align="center">A passionate fresher full-stack developer from VietNam</h3>
 
-- 🌱 I’m currently learning **Reactjs,Expressjs, Mongodb, Tailwind**
+- 🌱 I’m currently learning **Reactjs,C#,Java, SQL, Tailwind**
 
 - 💬 Ask me about **Html,JavaScript,Java,.Net**
 
