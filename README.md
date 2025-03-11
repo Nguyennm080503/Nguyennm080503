@@ -11,7 +11,7 @@
 Hi, I'm a Software Engineering student at FPT University. My expertise is in back-end development, particularly with C# and Java, but I also have experience working on the front-end with React. I enjoy tackling coding challenges, building applications, and learning new technologies along the way.
 - 👋 Hi, I’m @Nguyennm080503
 - 👨‍🎓 My fullname is **Nguyễn Minh Nguyên**
-- 👀 I’m interested in software engineering, system architecture, and cloud computing
+- 👀 I’m interested in software engineering, system architecture, and cloud computing, software testing.
 - 🌱 I’m currently learning C#, React, Angular, Docker, AWS, ...
 - 🔍 I’m looking to collaborate on open-source projects and innovative software solutions
 - 📫 Email me: [nguyencanqn123@gmail.com](mailto:nguyencanqn123@gmail.com)
