@@ -38,56 +38,48 @@ I also have experience with **React**, which helps me understand systems end-to-
 
 ### 👨‍💻 Programming Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="35" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="35" style="margin-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="35" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35" style="margin-right:10px;"/>
 </p>
 
 ### 🗄️ Database & Data Tools
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="35"/>
-<img src="https://seeklogo.com/images/A/apache-superset-logo-1F0E8A0B33-seeklogo.com.png" width="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60" style="margin-right:10px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="35" style="margin-right:10px;"/>
+<img src="https://images.seeklogo.com/logo-png/50/1/superset-icon-logo-png_seeklogo-500354.png" width="35" style="margin-right:10px;"/>
 </p>
 
 ### 🧪 Testing & QA Tools
 <p>
-<img src="https://www.netsparker.com/images/netsparker-logo.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="35"/>
+<img src="https://cybersecurity-excellence-awards.com/wp-content/uploads/2018/01/163816.png" width="35" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="35" style="margin-right:10px;"/>
 </p>
 
 ### 🤝 Collaboration & Management
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" style="margin-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="35"/>
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" style="margin-right:10px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" style="margin-right:10px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="40" style="margin-right:10px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nguyennm080503&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyennm080503&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150"/>
 </p>
 
 ---
