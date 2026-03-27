@@ -34,6 +34,31 @@ I also have experience with **React**, which helps me understand systems end-to-
 
 ---
 
+## 💼 Work Experience
+🧪 2+ years of experience in Software Testing (Manual + API + Performance)
+### 🏢 FPT Software HCM — Manual Tester  
+
+- Collaborated with developers & BAs to ensure product quality across Agile sprints  
+- Designed & executed test cases for UI and batch processing workflows  
+- Prepared test data and maintained clear testing documentation  
+- Managed defects using Jira (log, track, verify fixes)  
+- Supported performance testing to ensure system stability under load  
+- Improved test coverage by identifying recurring issues and optimizing workflows  
+
+---
+
+### 🏢 ATALINK Technology JSC — Quality Controller  
+
+- Designed & executed test cases for Web & Mobile applications  
+- Performed end-to-end testing: functional, regression, performance  
+- Conducted API testing with Postman (Odoo integration, data synchronization)  
+- Managed defect lifecycle: reporting, tracking, and retesting  
+- Collaborated with devs & product owners to refine requirements & UX  
+- Participated in Agile ceremonies and improved QA processes  
+- Supported performance testing for enterprise-scale system stability  
+
+---
+
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Programming Languages
